@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.tsv
+__pycache__
+.bin
+.pickle3
+*.pickle3
+vector/GoogleNews-vectors-negative300.bin
+*.tsv
+corpus/imdb/labeledTrainData.tsv
+*.tsv
